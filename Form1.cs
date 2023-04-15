@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -253,6 +253,4 @@ namespace WindowsFormsApp1
 }
 
 123
-12345
-
-新增 
+34567
